@@ -2,7 +2,7 @@ title: Logan Pratt # your name (or website title) here
 logo: "/images/headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Software Design and Development Student @ Penn State
-  <br><br
+  <br><br>
   <a href="https://www.linkedin.com/in/logan-pratt/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
