@@ -2,11 +2,9 @@
 
 ---
 
-### iOS Apps
+### PlayThis
 
-[PlayThis](/playthis)
-
-<img src="images/playthis/playlist.png" style="width: 253px; height: 450px;"/>
+<img src="images/playthis/playlist.png" style="width: 253px; height: 450px;"/> <img src="images/playthis/player.png" style="width: 253px; height: 450px;"/>
 
 ---
 
